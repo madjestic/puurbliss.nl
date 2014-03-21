@@ -1,0 +1,10 @@
+---
+Post-Post Modern OpenGL in Haskell
+---
+
+For a while my goal was to learn the basics of OpenGL, sufficient for following
+the [Haskell School of Expression](http://www.cs.yale.edu/homes/hudak/SOE/) and just enough to cover the humble requirements
+of my theoretic graphics application. A side goal is to keep the code base
+as compact and modern as possible, but not avoiding completely the benefitsof using
+some syntactic sugar, convenience functions and wrappers, provided by
+some modern graphics frameworks.
