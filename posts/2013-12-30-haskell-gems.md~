@@ -2,21 +2,19 @@
 title: Haskell Gems
 ---
 
-### Examples of beautiful haskell code
-
+## Examples of beautiful haskell code
+\
+\
 ``` haskell
-
 module Main where
 
 import System.IO
 
 main = readFile "input.txt" >>= print.length.lines
-
 ```
 \
-
-
-### [Lazy Pattern Matching]
+\
+## [Lazy Pattern Matching]
 
 ``` haskell
 {-# LANGUAGE NoMonomorphismRestriction #-}

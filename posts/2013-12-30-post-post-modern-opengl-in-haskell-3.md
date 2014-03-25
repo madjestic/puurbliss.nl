@@ -1,6 +1,5 @@
 ---
 title: Post-Post Modern OpenGL in Haskell 3
-thumb: "./images/love_u_1_500x500_scaled.png"
 ---
 
 ## Post-Post Modern OpenGL in Haskell 3 (WIP)

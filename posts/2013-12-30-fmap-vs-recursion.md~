@@ -60,6 +60,8 @@ fmap f (Node x ts) = Node (f ts) (map (fmap f) ts)
 
 (This function will recursively operate on ts (pattern-matched to subForest members), rather than on the x (rootLabel), as in the function above, without loosing readability – ain’t that just peachy?):
 
+### [Edit:]
+
 Further example of the same principle:
 
 ``` haskell
