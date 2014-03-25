@@ -1,5 +1,6 @@
 ---
 title: Haskell Gems
+thumb: "./images/love_roses_1_500x500.jpg"
 ---
 
 ### Examples of beautiful haskell code

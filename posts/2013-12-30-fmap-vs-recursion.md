@@ -1,5 +1,6 @@
 ---
 title: fmap versus recursion
+thumb: "./images/love_roses_1_500x500.jpg"
 ---
 
 
